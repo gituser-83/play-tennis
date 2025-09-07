@@ -18,6 +18,3 @@ The dataset contains the following columns:
 - Python 3.x
 - pandas
 - scikit-learn
-
-```bash
-python decision_tree_tennis.py
